@@ -13,15 +13,15 @@ your_key, your_secret_key, your_access_token, và your_access_token_secret là n
 
 3. Cài đặt laravel, bằng cách chạy lệnh sau
 
-    composer install 
+        composer install 
 
 4. Chạy laravel, bằng lệnh sau
 
-    laravel artisan serve
+        laravel artisan serve
 
 5. Test app bằng browser với đường dẫn 
 
-    http://localhost:8000/twitterUserTimeLine
+        http://localhost:8000/twitterUserTimeLine
 
 Good Luck! 
 Nếu có bất kỳ thắc mắc nào xin vui lòng liên hệ, 01227772057, Gặp A Cường.
